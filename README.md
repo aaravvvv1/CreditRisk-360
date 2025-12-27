@@ -36,5 +36,3 @@ By integrating **SQL** for data extraction, **Python (Scikit-Learn)** for predic
     python train_model.py
     ```
 
-## 📷 Dashboard Preview
-![Dashboard Screenshot](link_to_your_screenshot_here)
