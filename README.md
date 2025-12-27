@@ -31,6 +31,7 @@ By integrating **SQL** for data extraction, **Python (Scikit-Learn)** for predic
     ```bash
     pip install pandas sqlalchemy psycopg2-binary scikit-learn
     ```
+    ![Dashboard Preview](Dasboard_view.png)
 3.  **Run the Pipeline**
     ```bash
     python train_model.py
